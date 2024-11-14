@@ -1,0 +1,1 @@
+# LAB_ASSIGNMENT5_SingletonPattern
