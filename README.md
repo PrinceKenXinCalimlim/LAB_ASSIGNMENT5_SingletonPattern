@@ -12,3 +12,4 @@ In your solution you must provide the following in your Github link account:
   - UML Class Diagram
   - Uploaded java codes for the solution.
 
+![UML CLASS DIAGRAM Singleton Pattern Design](https://github.com/user-attachments/assets/4af5ce44-f0ba-4d41-9212-a39b3b74064a)
